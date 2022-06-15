@@ -1,0 +1,7 @@
+{
+  "name": "template-react-blog",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
